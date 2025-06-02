@@ -1,40 +1,44 @@
 # 👋 Hi, I'm Taran Sahota
 
-I'm a passionate Software Developer with a focus on building clean, user-friendly web apps. I enjoy working with JavaScript, React, Next.js, Node.js, and exploring the power of AI with OpenAI's tools.
+I'm a Frontend Developer focused on building fast, responsive web apps with **React** and **Next.js**. I enjoy creating smooth user experiences and also love working on backend systems that make everything run cleanly behind the scenes. I'm currently exploring full-stack AI applications using OpenAI tools.
 
 ---
 
 ## 💻 Tech Stack
 
-- 🧠 AI: OpenAI API (GPT-4, Vision, Whisper, DALL·E)
-- 🌐 Frontend: HTML, CSS, Tailwind CSS, React, Next.js
-- 🛠️ Backend: Node.js, Express.js
-- 🗃️ Database: PostgreSQL, Supabase
-- 🔧 Tools: Git, GitHub, Vite, VS Code, Render
+- 🌐 **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- ⚙️ **Backend**: Node.js, Express.js
+- 🗃️ **Database**: PostgreSQL, Supabase
+- 🧠 **AI**: OpenAI API (GPT-4, Vision, DALL·E, Whisper)
+- 🔧 **Tools**: Git, GitHub, Vite, VS Code, Render
 
 ---
 
 ## 📂 Notable Projects
 
-### 🔧 [Project Name](https://github.com/org-or-user/repo-name)
-> Open source project I contributed to as one of 4 developers  
-• Built [briefly describe feature(s)]  
-• Fixed [mention key bug(s) or issue(s)]  
-• [View my commits](https://github.com/org-or-user/repo-name/commits?author=yourusername)
+### 🔧 [Week 12 Final Project – Social Calendar App](https://github.com/wingchichan/week12-final-project)
+> Group project built by 4 developers — I led backend development and database setup  
+• Designed and built the PostgreSQL database schema  
+• Wrote and managed most of the server-side logic with Node.js and Express  
+• Contributed to the frontend UI with React and helped maintain team coordination  
+• [View my commits](https://github.com/wingchichan/week12-final-project/commits?author=taz458)
 
 ---
 
 ## ✨ Current Focus
 
-- Building full-stack apps with OpenAI tools (vision, image, and audio features)
-- Writing clean, accessible UI components in React and Tailwind
+- Building full-stack apps with React + Next.js
+- Developing AI-powered tools with OpenAI’s GPT-4, DALL·E, and Whisper
+- Writing scalable, reusable React components and backend APIs
 
 ---
 
 ## 📫 Let's Connect
 
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💼 [Portfolio Website](https://yourdomain.com)
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/yourprofile) <!-- Replace this with your actual link -->
+- 💼 [Portfolio Website](https://yourdomain.com) <!-- Replace this if you have one -->
 - 📬 Email: tazsahota2003@gmail.com
 
-Thanks for stopping by! 🌱
+Thanks for stopping by! 🚀
+
+
