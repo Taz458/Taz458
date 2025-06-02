@@ -26,7 +26,6 @@ I'm a passionate Software Developer with a focus on building clean, user-friendl
 
 ## ✨ Current Focus
 
-- Learning Laravel and integrating it with React
 - Building full-stack apps with OpenAI tools (vision, image, and audio features)
 - Writing clean, accessible UI components in React and Tailwind
 
