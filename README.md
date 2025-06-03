@@ -14,7 +14,7 @@ I'm a Frontend Developer focused on building fast, responsive web apps with **Re
 
 ---
 
-## 📂 Notable Projects
+## 📂 Group Projects (Check pinned repositories for personal projects)
 
 ### 🔧 [Week 12 Final Project – Social Calendar App](https://github.com/wingchichan/week12-final-project)
 ### Live Demo (https://week12-final-project-62cm0xvoj-wings-projects-8a76fcc6.vercel.app)
