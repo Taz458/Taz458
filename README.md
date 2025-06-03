@@ -17,7 +17,7 @@ I'm a Frontend Developer focused on building fast, responsive web apps with **Re
 ## 📂 Notable Projects
 
 ### 🔧 [Week 12 Final Project – Social Calendar App](https://github.com/wingchichan/week12-final-project)
-### [LIVE DEMO OF APP] (https://week12-final-project-62cm0xvoj-wings-projects-8a76fcc6.vercel.app)
+### Live Demo (https://week12-final-project-62cm0xvoj-wings-projects-8a76fcc6.vercel.app)
 > Group project built by 4 developers — I led backend development and database setup  
 • Designed and built the PostgreSQL database schema  
 • Wrote and managed most of the server-side logic with Node.js and Express  
